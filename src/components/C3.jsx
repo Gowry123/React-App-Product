@@ -1,167 +1,120 @@
 import React from 'react'
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
-
 
 const Component3 = () => {
   return (
     <div>
       <div className="container">
         <div className="row">
-            <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+            <div className="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                 <div className="row g-3">
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://m.media-amazon.com/images/I/81c0jxRWx3L.jpg" />
-      <Card.Body>
-        <Card.Title>Biscuit</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
-                    </div> 
-                   
-                   
-                   
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://cdn.uengage.io/uploads/18085/image-381513-1685703917.jpeg" />
-      <Card.Body>
-        <Card.Title>Cola</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                  
-                  
-                  
-                  
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://cdn.britannica.com/55/157155-050-D07F5610/Containers-olive-oil.jpg" />
-      <Card.Body>
-        <Card.Title>Oil</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                  
-                  
-                  
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://m.media-amazon.com/images/I/71RnvqaKDML.jpg" />
-      <Card.Body>
-        <Card.Title>Shampoo</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                   
-                   
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://images-cdn.ubuy.co.in/67656f3f723db01ccb3ff602-eco-styler-olive-oil-styling-hair-gel.jpg" />
-      <Card.Body>
-        <Card.Title>Hair Gel</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                   
-                   
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://images-cdn.ubuy.co.in/67656f3f723db01ccb3ff602-eco-styler-olive-oil-styling-hair-gel.jpg" />
-      <Card.Body>
-        <Card.Title>Hair Gel</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                   
-                   
-                   
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://images-cdn.ubuy.co.in/67656f3f723db01ccb3ff602-eco-styler-olive-oil-styling-hair-gel.jpg" />
-      <Card.Body>
-        <Card.Title>Hair Gel</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                  
-                  
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://images-cdn.ubuy.co.in/67656f3f723db01ccb3ff602-eco-styler-olive-oil-styling-hair-gel.jpg" />
-      <Card.Body>
-        <Card.Title>Hair Gel</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                  
-                  
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://images-cdn.ubuy.co.in/67656f3f723db01ccb3ff602-eco-styler-olive-oil-styling-hair-gel.jpg" />
-      <Card.Body>
-        <Card.Title>Hair Gel</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
-                   
-                   
-                    <div className="col col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
-                    <Card>
-      <Card.Img variant="top" src="https://images-cdn.ubuy.co.in/67656f3f723db01ccb3ff602-eco-styler-olive-oil-styling-hair-gel.jpg" />
-      <Card.Body>
-        <Card.Title>Hair Gel</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
-      </Card.Body>
-    </Card>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+                    </div>
+
+                    <div className="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
+                    <div class="card">
+  <img src="https://assets.ajio.com/medias/sys_master/root/20240917/wQg9/66e966dc6f60443f3182bc22/-473Wx593H-4919386300-148ihunt-MODEL7.jpg" class="card-img-top" alt="..."></img>
+  <div class="card-body">
+    <h5 class="card-title">Lipstick</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
                     </div>
                 </div>
             </div>
